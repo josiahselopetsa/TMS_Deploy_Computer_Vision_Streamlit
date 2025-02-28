@@ -15,4 +15,6 @@ scipy
 scikit-image
 streamlit
 cmake
+--upgrade cmake
+--upgrade pip setuptools wheel
 dlib
